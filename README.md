@@ -13,3 +13,6 @@ The writePassword() function prompts the user to input the desired password leng
 # Links on Git Hub Repository 
 HTTPS: https://github.com/AJChrystall/Password-Generator.git 
 SSH: git@github.com:AJChrystall/Password-Generator.git This is A simple Password Generator 
+ 
+ 
+ <img width="1392" alt="Screen Shot 2023-03-10 at 12 22 44 AM" src="https://user-images.githubusercontent.com/122951154/224035974-f2fba769-6159-44c6-a31c-5a143c52c0f2.png">
